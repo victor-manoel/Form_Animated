@@ -5,7 +5,7 @@ https://user-images.githubusercontent.com/51092571/186070235-cbfe9f7c-26a5-4e17-
 ## Getting started
 
 - `yarn or npm install` 
-- `expo start`
+- `yarn run ios or yarn run android`
 
  
 ## Versioning
